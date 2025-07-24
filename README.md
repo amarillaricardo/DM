@@ -1,22 +1,41 @@
 # Predicción de Precios de Propiedades
 
-Este repositorio contiene el notebook del trabajo práctico individual para la materia Data Mining.
-El objetivo fue predecir precios de propiedades utilizando técnicas de limpieza, transformación de datos y un modelo de Random Forest.
-La métrica utilizada para evaluar el desempeño fue el RMSE (Root Mean Squared Error).
-Dataset
+Este proyecto fue desarrollado de forma individual en el marco de la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento**, como parte de la materia **Data Mining**.
 
-El análisis se realizó sobre el dataset público de Properati, que contiene información sobre miles de propiedades en venta y alquiler en América Latina.
-Este conjunto de datos es utilizado frecuentemente con fines educativos y de práctica en ciencia de datos.
+El trabajo consistió en participar de una **competencia simulada en Kaggle** organizada por la cátedra, cuyo objetivo era predecir el precio de propiedades a partir de un dataset realista.  
+Se evaluó la capacidad de modelado, pero principalmente el manejo del **preprocesamiento y la calidad de los datos**.  
+La métrica utilizada fue **RMSE (Root Mean Squared Error)**.
 
-Contenido
+## Dataset
 
-    DataMining.ipynb: notebook completo con exploración, limpieza, entrenamiento del modelo y evaluación de resultados.
-    
+El dataset fue provisto por la cátedra y está basado en publicaciones reales de propiedades de **Properati**, incluyendo variables como precio, ubicación, superficie, ambientes y otros atributos.  
+No se incluye el dataset en este repositorio por ser parte del entorno de evaluación.
 
-El análisis fue desarrollado en Google Colab.
+## Notebook
 
-Notas
+El desarrollo completo se encuentra en el notebook de Google Colab:
 
-    El foco principal estuvo en el preprocesamiento de datos: imputación de valores faltantes, codificación de variables categóricas y detección de outliers.
+- `DataMining.ipynb`
 
-    El modelo utilizado fue un Random Forest Regressor, entrenado con validación y evaluado con RMSE.
+## Contenido del notebook
+
+- Análisis exploratorio de datos (EDA)
+- Limpieza: tratamiento de valores faltantes, outliers y codificación
+- Preprocesamiento de variables
+- Entrenamiento y comparación de múltiples modelos de regresión:
+  - Regresión Lineal
+  - Árbol de Decisión
+  - Random Forest
+  - Otros modelos supervisados
+- Evaluación con **RMSE**
+- Preparación de la predicción final para submitir a la competencia
+
+## Enfoque
+
+El proyecto se centró en:
+
+- Aplicar buenas prácticas de **limpieza y preparación de datos**
+- Evaluar cómo afecta el preprocesamiento al rendimiento de los modelos
+- Comparar diferentes algoritmos supervisados
+- Generar una solución reproducible y clara para un problema realista
+
