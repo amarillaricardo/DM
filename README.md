@@ -19,16 +19,23 @@ El desarrollo completo se encuentra en el notebook de Google Colab:
 
 ## Contenido del notebook
 
-- Análisis exploratorio de datos (EDA)
-- Limpieza: tratamiento de valores faltantes, outliers y codificación
-- Preprocesamiento de variables
-- Entrenamiento y comparación de múltiples modelos de regresión:
-  - Regresión Lineal
-  - Árbol de Decisión
-  - Random Forest
-  - Otros modelos supervisados
-- Evaluación con **RMSE**
-- Preparación de la predicción final para submitir a la competencia
+- **Análisis exploratorio de datos (EDA)**  
+- **Limpieza y preprocesamiento de datos reales de la base de Properati**  
+  - Tratamiento de valores faltantes  
+  - Detección y manejo de outliers  
+  - Codificación de variables categóricas  
+- **Ingeniería de características (Feature Engineering)**  
+- **Enriquecimiento de datos con capas geoespaciales**  
+- **Modelado predictivo**  
+  - Entrenamiento y comparación de múltiples modelos de regresión:  
+    - Regresión Lineal  
+    - Árboles de Decisión  
+    - Random Forest  
+    - Otros modelos supervisados  
+- **Evaluación del rendimiento utilizando RMSE**  
+- **Análisis de importancia de variables y visualizaciones interpretables**  
+- **Generación de predicciones finales para submitir a la competencia**
+
 
 ## Enfoque
 
