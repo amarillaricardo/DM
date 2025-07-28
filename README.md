@@ -1,6 +1,9 @@
 # Predicción de Precios de Propiedades
 
-Este proyecto fue desarrollado de forma individual en el marco de la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento**, como parte de la materia **Data Mining**.
+Este proyecto fue desarrollado de forma individual en el marco de la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento- FCEN, UBA.**, como parte de la materia **Data Mining**.
+
+## Objetivo
+El objetivo del proyecto fue entender cómo variables urbanas y geoespaciales influyen en el valor de una propiedad, y construir modelos predictivos aplicables a contextos reales del negocio inmobiliario. Para ello, se trabajó con un conjunto de datos de gran escala, lo que exigió un proceso riguroso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y evaluar distintos modelos supervisados.
 
 El trabajo consistió en participar de una **competencia simulada en Kaggle** organizada por la cátedra, cuyo objetivo era predecir el precio de propiedades a partir de un dataset realista.  
 Se evaluó la capacidad de modelado, pero principalmente el manejo del **preprocesamiento y la calidad de los datos**.  
@@ -37,6 +40,5 @@ El desarrollo completo se encuentra en el notebook de Google Colab:
 - **Generación de predicciones finales para submitir a la competencia**
 
 
-## Objetivo
-El objetivo del proyecto fue entender cómo variables urbanas y geoespaciales influyen en el valor de una propiedad, y construir modelos predictivos aplicables a contextos reales del negocio inmobiliario. Para ello, se trabajó con un conjunto de datos de gran escala, lo que exigió un proceso riguroso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y evaluar distintos modelos supervisados.
+
 
