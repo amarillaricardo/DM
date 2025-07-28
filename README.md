@@ -37,12 +37,6 @@ El desarrollo completo se encuentra en el notebook de Google Colab:
 - **Generación de predicciones finales para submitir a la competencia**
 
 
-## Enfoque
-
-El proyecto se centró en:
-
-- Aplicar buenas prácticas de **limpieza y preparación de datos**
-- Evaluar cómo afecta el preprocesamiento al rendimiento de los modelos
-- Comparar diferentes algoritmos supervisados
-- Generar una solución reproducible y clara para un problema realista
+## Objetivo
+El objetivo del proyecto fue entender cómo variables urbanas y geoespaciales influyen en el valor de una propiedad, y construir modelos predictivos aplicables a contextos reales del negocio inmobiliario. Para ello, se trabajó con un conjunto de datos de gran escala, lo que exigió un proceso riguroso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y evaluar distintos modelos supervisados.
 
