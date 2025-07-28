@@ -3,11 +3,9 @@
 Este proyecto fue desarrollado de forma individual en el marco de la **Maestría en Explotación de Datos y Descubrimiento del Conocimiento- FCEN, UBA.**, como parte de la materia **Data Mining**.
 
 ## Objetivo
-El objetivo del proyecto fue entender cómo variables urbanas y geoespaciales influyen en el valor de una propiedad, y construir modelos predictivos aplicables a contextos reales del negocio inmobiliario. Para ello, se trabajó con un conjunto de datos de gran escala, lo que exigió un proceso riguroso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y evaluar distintos modelos supervisados.
+El objetivo fue analizar cómo las variables urbanas y geoespaciales impactan en el valor de una propiedad, y desarrollar modelos predictivos con aplicación en escenarios reales del mercado inmobiliario. Para ello, se trabajó con un conjunto de datos de gran volumen y complejidad, lo que requirió un enfoque cuidadoso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y comparar diferentes modelos supervisados.
 
-El trabajo consistió en participar de una **competencia simulada en Kaggle** organizada por la cátedra, cuyo objetivo era predecir el precio de propiedades a partir de un dataset realista.  
-Se evaluó la capacidad de modelado, pero principalmente el manejo del **preprocesamiento y la calidad de los datos**.  
-La métrica utilizada fue **RMSE (Root Mean Squared Error)**.
+El proyecto se enmarcó en una competencia simulada en Kaggle, organizada por la cátedra, cuyo desafío era predecir el precio de propiedades a partir de un dataset con características realistas. Si bien se evaluó la capacidad de modelado, el principal foco estuvo en el manejo del preprocesamiento y la calidad de los datos. La métrica de evaluación utilizada fue RMSE (Root Mean Squared Error).
 
 ## Dataset
 
