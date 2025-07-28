@@ -5,7 +5,7 @@ Este proyecto fue desarrollado de forma individual en el marco de la **Maestría
 ## Objetivo
 El objetivo fue analizar cómo las variables urbanas y geoespaciales impactan en el valor de una propiedad, y desarrollar modelos predictivos con aplicación en escenarios reales del mercado inmobiliario. Para ello, se trabajó con un conjunto de datos de gran volumen y complejidad, lo que requirió un enfoque cuidadoso de análisis exploratorio, limpieza y preprocesamiento antes de entrenar y comparar diferentes modelos supervisados.
 
-El proyecto se enmarcó en una competencia simulada en Kaggle, organizada por la cátedra, cuyo desafío era predecir el precio de propiedades a partir de un dataset con características realistas. Si bien se evaluó la capacidad de modelado, el principal foco estuvo en el manejo del preprocesamiento y la calidad de los datos. La métrica de evaluación utilizada fue RMSE (Root Mean Squared Error).
+El proyecto se enmarcó en una competencia simulada en Kaggle, organizada por la cátedra, cuyo desafío era predecir el precio de propiedades a partir de un dataset real. Si bien se evaluó la capacidad de modelado, el principal foco estuvo en el manejo del preprocesamiento y la calidad de los datos. La métrica de evaluación utilizada fue RMSE (Root Mean Squared Error).
 
 ## Dataset
 
